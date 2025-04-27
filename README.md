@@ -1,2 +1,2 @@
 # Uber-Data-analysis-
-preprocessing the uber dataset and clean it to using ETL technique to get insights
+preprocessing the uber dataset and clean it by using ETL technique to get insights
