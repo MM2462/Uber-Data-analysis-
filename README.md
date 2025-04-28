@@ -18,9 +18,9 @@ which month have Uber max pickup in New York City ?
 which days of the week show the highest demand ?
 Which Base_number has most number of Active Vehicles ??
 
-# Notes :uber-raw-data-janjune-15_sample.csv , this data is a sample of "uber-raw-data-janjune-15.csv
-  Since above data is quite huge ~15 Million data pts , hence it is good to work with some sample 
-  if u do not have good specifications in your systems
+# Notes :
+this data  is quite huge ~15 Million data pts , hence it is good to work with some sample 
+if u do not have good specifications in your systems
 
 # project structure 
 uber-data-analysis/
